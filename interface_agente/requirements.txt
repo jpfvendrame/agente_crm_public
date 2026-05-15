@@ -1,1 +1,1 @@
-plotfy
+plotly
